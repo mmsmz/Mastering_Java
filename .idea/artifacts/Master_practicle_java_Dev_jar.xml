@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Master practicle java Dev:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Master_practicle_java_Dev_jar</output-path>
+    <root id="archive" name="Master practicle java Dev.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/New folder/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Master practicle java Dev" />
+    </root>
+  </artifact>
+</component>
