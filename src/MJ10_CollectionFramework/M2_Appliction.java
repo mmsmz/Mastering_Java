@@ -19,7 +19,6 @@ public class M2_Appliction {
 //        String itm2 =  (String) word.get(3);
 //        System.out.println(itm1 +itm2);
 
-
 //        Object itm1 =  word.get(2);
 //        Object itm2 =  word.get(3);
 //        System.out.println(itm1 + itm2); // connot apply to object

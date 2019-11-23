@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/MJ6_StringClass_AND_LOOPS_AND_Break_Continue_Statement/M2_All_TypesofLoops.java" line="13" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc9f35c8-daf3-4239-a713-34815f405a4c" name="Default Changelist" comment="" />
+    <list default="true" id="fc9f35c8-daf3-4239-a713-34815f405a4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +33,68 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+            <state relative-caret-position="135">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
                 <element signature="e#294#303#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/Bird.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M1_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M2_AppModifiedReducedCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M3_MAppModified.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -64,10 +122,12 @@
       <dir>C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src\MJ7_Car_DealerShip</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MJ3_Understandning_OOP_Objects/M7_InnerDemo_UsingStatic.java" />
         <option value="$PROJECT_DIR$/src/MJ1_Basic_Java/M5_Working_with_Arrays.java" />
         <option value="$PROJECT_DIR$/src/MJ1_Basic_Java/M8_EnhanceLoop.java" />
         <option value="$PROJECT_DIR$/src/MJ4_ClassInheritance/M1_InheritanceDemo.java" />
@@ -79,7 +139,6 @@
         <option value="$PROJECT_DIR$/src/MJ4_ClassInheritance/M5_DynamicMethodDispatch.java" />
         <option value="$PROJECT_DIR$/src/MJ4_ClassInheritance/M6_Encapsulation.java" />
         <option value="$PROJECT_DIR$/src/MJ10_CollectionFramework/WrapperDemo.java" />
-        <option value="$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java" />
         <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1_AbractDemo.java" />
         <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M2_WhyAbstractClass.java" />
         <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M3_AbstractEx.java" />
@@ -118,6 +177,8 @@
         <option value="$PROJECT_DIR$/src/MJ19_MultiThreading/M8_MT_SynchronizedKeyword.java" />
         <option value="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1.java" />
         <option value="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java" />
+        <option value="$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java" />
+        <option value="$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java" />
       </list>
     </option>
   </component>
@@ -133,6 +194,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -154,7 +216,20 @@
               <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MJ12_CollectionMethods_AND_ComparableInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="MJ9_BufferedFileReader_with_TryCatchANDFinally" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MJ9_BufferedFileReader_with_TryCatchANDFinally" type="462c0819:PsiDirectoryNode" />
+              <item name="M3_MAppModified.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MJ10_CollectionFramework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,6 +240,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/MJ3_Understandning_OOP_Objects" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
@@ -300,6 +376,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -391,39 +468,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MJ7_Car_DealerShip/DealerShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ7_Car_DealerShip/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ7_Car_DealerShip/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1175#1176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MJ7_Car_DealerShip/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -616,20 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M2_AppModifiedReducedCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M1_App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MJ8_FileProcessing_with_ExceptionHandlingANDKeyboardInput/M1/M1_ExceptionHandling_using_Try_Catch_Finally.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -686,13 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M3_MAppModified.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -795,11 +818,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+        <state relative-caret-position="135">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
             <element signature="e#294#303#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M1_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M2_AppModifiedReducedCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M3_MAppModified.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>
