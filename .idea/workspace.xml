@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fc9f35c8-daf3-4239-a713-34815f405a4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +19,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MJ1_Basic_Java/M5_Working_with_Arrays.java" />
         <option value="$PROJECT_DIR$/src/MJ1_Basic_Java/M8_EnhanceLoop.java" />
         <option value="$PROJECT_DIR$/src/MJ4_ClassInheritance/M1_InheritanceDemo.java" />
         <option value="$PROJECT_DIR$/src/MJ4_ClassInheritance/M3_SuperMethod.java" />
@@ -98,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java" />
         <option value="$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java" />
         <option value="$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java" />
+        <option value="$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java" />
       </list>
     </option>
   </component>
@@ -119,7 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,26 +147,13 @@
               <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MJ9_BufferedFileReader_with_TryCatchANDFinally" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MJ9_BufferedFileReader_with_TryCatchANDFinally" type="462c0819:PsiDirectoryNode" />
-              <item name="M3_MAppModified.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MJ10_CollectionFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="MJ20_LamdaExpression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,12 +289,21 @@
       <option name="presentableId" value="Default" />
       <updated>1572192583218</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updating with Lamda Expression..">
+      <created>1574878796313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574878796313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20347957" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -324,6 +331,10 @@
       <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="7" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Ant Build" order="8" visible="true" weight="0.08850227" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating with Lamda Expression.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating with Lamda Expression.." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -386,13 +397,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MJ7_Car_DealerShip/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/launcher/LauncherHelper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -780,6 +784,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
         </state>
       </provider>
     </entry>
