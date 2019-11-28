@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc9f35c8-daf3-4239-a713-34815f405a4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MJ1_Basic_Java/M8_EnumerationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ20_LamdaExpression/M2_Java8_StreamAPIDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ10_CollectionFramework/M2_Appliction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ10_CollectionFramework/M2_Appliction.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,12 +22,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+            <state relative-caret-position="272">
+              <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MJ1_Basic_Java/M8_EnumerationDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -58,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MJ1_Basic_Java/M8_EnhanceLoop.java" />
-        <option value="$PROJECT_DIR$/src/MJ4_ClassInheritance/M1_InheritanceDemo.java" />
         <option value="$PROJECT_DIR$/src/MJ4_ClassInheritance/M3_SuperMethod.java" />
         <option value="$PROJECT_DIR$/src/MJ4_ClassInheritance/M2_Doesnt_Support_MultipleLevel_Inheritance.java" />
         <option value="$PROJECT_DIR$/src/MJ4_ClassInheritance/M4_MethodOverriding.java" />
@@ -109,6 +119,8 @@
         <option value="$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java" />
         <option value="$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java" />
         <option value="$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java" />
+        <option value="$PROJECT_DIR$/src/MJ20_LamdaExpression/M2_Java8_StreamAPIDemo.java" />
+        <option value="$PROJECT_DIR$/src/MJ1_Basic_Java/M8_EnumerationDemo.java" />
       </list>
     </option>
   </component>
@@ -130,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,12 +158,25 @@
               <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MJ1_Basic_Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MJ2_SomePackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="MJ20_LamdaExpression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -195,13 +219,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.M8_MT_SynchronizedKeyword">
-    <configuration name="M4_MT_RunnableInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ19_MultiThreading.M4_MT_RunnableInterface" />
+  <component name="RunManager" selected="Application.M2_Java8_StreamAPIDemo">
+    <configuration name="M2_Java8_StreamAPIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ20_LamdaExpression.M2_Java8_StreamAPIDemo" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ19_MultiThreading.*" />
+          <option name="PATTERN" value="MJ20_LamdaExpression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,7 +286,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.M4_MT_RunnableInterface" />
+      <item itemvalue="Application.M2_Java8_StreamAPIDemo" />
       <item itemvalue="Application.M5_MT_LamdaExpression" />
       <item itemvalue="Application.M6_MT_Join_OR_isAlive_method" />
       <item itemvalue="Application.M7_MT_ThreadPriority" />
@@ -270,11 +294,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.M2_Java8_StreamAPIDemo" />
         <item itemvalue="Application.M8_MT_SynchronizedKeyword" />
         <item itemvalue="Application.M7_MT_ThreadPriority" />
         <item itemvalue="Application.M6_MT_Join_OR_isAlive_method" />
         <item itemvalue="Application.M5_MT_LamdaExpression" />
-        <item itemvalue="Application.M4_MT_RunnableInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -296,14 +320,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574878796313</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updating with Lamda Expression..">
+      <created>1574880487460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574880487460</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21255673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -319,7 +350,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Maven" order="1" weight="0.32980332" />
@@ -397,23 +428,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/launcher/LauncherHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="381" column="9" lean-forward="true" selection-start-line="381" selection-start-column="9" selection-end-line="381" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M3_AbstractEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding>
-            <marker date="1574012979009" expanded="true" signature="737:831" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MJ2_SomePackage/Exampleclass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -787,10 +801,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MJ20_LamdaExpression/M2_Java8_StreamAPIDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MJ20_LamdaExpression/M1_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+        <state relative-caret-position="272">
+          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MJ1_Basic_Java/M8_EnumerationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>

@@ -21,6 +21,13 @@ public class M1_ {
 
         // Stream API
             // we have certain methods of stream api and it was introduced
+
+        // in third rules in JAVA (default methods )
+                // class has more power compared to interface
+                // default methods have low priority and normal methods will have high priority
+                // ***if you have the same methods in the interface which has the same method in the object class which and
+                    //  which override the object class. this will give error.
+        // java 8 supports static methods
     }
 
 }
