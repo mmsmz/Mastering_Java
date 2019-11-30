@@ -15,6 +15,7 @@ public class M2_AppModifiedReducedCode {
 
         try (FileReader fileReader = new FileReader(file);
                BufferedReader bufferedReader = new BufferedReader(fileReader);) {
+
             String line = bufferedReader.readLine();
             while(line!= null){
                 System.out.println(line);
