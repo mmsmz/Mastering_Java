@@ -34,11 +34,12 @@ public class M5_Working_with_Arrays {
         words1[3] = "Marnik";
         System.out.println(words1[0]);
         // can you increase the words1 array?
+        // once initialized we cannot expand the we can only create brand new of array slots
         words1 = new String[10]; // now there want be any old value of data stored in these new slots
         // this will create a new array list of 10 slots
         //words1= new String[10]; this create a new array and doesn't store old values in it ***
-        System.out.println(words1[0]); // output = null , which means it is empty
-
+        System.out.println(words1[0]); // output = null , null which means it is empty
+        System.out.println(words1[2]);
         // Array
         /**
          *  a. 1Dimension Array

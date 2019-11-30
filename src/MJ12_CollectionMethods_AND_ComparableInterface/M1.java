@@ -7,7 +7,7 @@ import java.util.List;
 public class M1 {
     public static void main(String[] args) {
 //        Collection  values = new ArrayList();
-        List values = new ArrayList();
+        Collection values = new ArrayList();
         values.add(5);
         values.add(6);
 

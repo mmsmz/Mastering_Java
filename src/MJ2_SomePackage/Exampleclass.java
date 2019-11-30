@@ -8,5 +8,6 @@ public class Exampleclass {
         // now excercise
         // invoke this doSomthing method in the Earth method
         // invoke means call that method inside another class
+        System.out.println("in the exampleclass");
     }
 }

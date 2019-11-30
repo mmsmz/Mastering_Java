@@ -8,6 +8,8 @@ public class M2_AppModifiedReducedCode {
         // from Java 7 onwards a new sytax was introduced and thats called "try with resources"
         // where we dont need the finally block
         // and we dont need to close the resources which are involved example .close(); ite closes automatically
+        // we can get rid of finally block because normaly we use finally blck to close() the resources
+         // we dont need to close() the resources from java 7 onwards
 
         File file = new File("myfile.txt"); // instantiating file using File class
 
