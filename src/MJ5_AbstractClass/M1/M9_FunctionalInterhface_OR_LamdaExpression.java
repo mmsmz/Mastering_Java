@@ -17,9 +17,9 @@ package MJ5_AbstractClass.M1;
  // 3. Marker Interface
 
 // Annotation is not compulsory
-@FunctionalInterface  // use annotation to stop using more methods in M1 because its Functional Interface
+@FunctionalInterface  // use annotation to stop using more methods in M1 class because its Functional Interface
 interface M1{// this is Functional Interface
-    void show();
+    void showing();
 }
 
 public class M9_FunctionalInterhface_OR_LamdaExpression {
@@ -31,9 +31,9 @@ public class M9_FunctionalInterhface_OR_LamdaExpression {
 //                             };
 //                    obj.show();
 
-                    // since we are going to use lamda expression we can reduce many lines of code from above
+                // since we are going to use lamda expression we can reduce many lines of code from above
                 M1 obj = ()-> System.out.println("I am the best");
                         // *** this only work with functional interface and this works only in Java 8
-                obj.show();
+                obj.showing();
     }
 }

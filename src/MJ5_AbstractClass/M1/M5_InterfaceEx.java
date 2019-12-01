@@ -46,7 +46,7 @@ public class M5_InterfaceEx  {
          * in abstract class we can have abstract methods and also we can have normal methods
          *      // abstract class we can define and declare methods
          * in the interface we can have all the methods of abstract but we cannot define any method
-         *      // interface we cannot define any method, we can only define.
+         *      // interface we cannot declare any method, we can only define. // this is until java 7
          *
          */
 

@@ -3,8 +3,11 @@ package MJ5_AbstractClass.M1;
 abstract class Writter{
     public abstract void read(int i);
     public abstract void read(double i);
-
+    public void read(){ // we can also use normal method in abstract class
+        System.out.println();
+    }
 }
+
 class Pen extends Writter{
     public void read(int i) {
         System.out.println("Reading the Pen int ");
@@ -20,7 +23,6 @@ class Pencil extends Writter{
     public void read(double i) {
         System.out.println("Reading the Pencil double");
     }
-
 }
 
 public class M3_AbstractEx {
