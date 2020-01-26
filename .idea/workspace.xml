@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc9f35c8-daf3-4239-a713-34815f405a4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M1_1_StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M1_2_StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M2_PatternMatchingUsingBuild_In_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M3_StringOperationTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M4_ToStringMethodMEANS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M5_StringSplittingFrom_CSV_comma_sepeated_Values.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M6_StringisImmutable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/META-INF/Master practicle java Dev.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/META-INF/Master practicle java Dev.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/abc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ20_LamdaExpression/M2_Java8_StreamAPIDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ20_LamdaExpression/M2_Java8_StreamAPIDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,12 +188,20 @@
       <option name="project" value="LOCAL" />
       <updated>1574965796737</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updating common practicle excercise of String">
+      <created>1580034328090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580034328090</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating with Lamda Expression.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating with Lamda Expression.." />
+    <MESSAGE value="updating common practicle excercise of String" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating common practicle excercise of String" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1579978179896">
@@ -215,6 +212,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1575480461253" />
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1580034320426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580034320426" />
     <state width="444" height="466" key="DebuggerActiveHint" timestamp="1579634458435">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -259,6 +260,10 @@
     </state>
     <state width="1493" height="192" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106825" />
     <state width="1323" height="192" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579637823224" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1580035011680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580035011680" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580034213999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
