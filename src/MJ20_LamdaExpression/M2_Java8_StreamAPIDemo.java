@@ -9,7 +9,7 @@ public class M2_Java8_StreamAPIDemo {
     public static void main(String[] args) {
 
         List<Integer> values = Arrays.asList(1, 2, 3, 4, 5, 6);
-                        // we can also create an object using Arrays.asList()
+                      // we can also create an object using Arrays.asList()
 
 //        for (int i = 0; i < 6; i++) {
 //            System.out.println(values.get(0));

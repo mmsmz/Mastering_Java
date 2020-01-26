@@ -1,65 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/MJ6_StringClass_AND_LOOPS_AND_Break_Continue_Statement/M2_All_TypesofLoops.java" line="13" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="fc9f35c8-daf3-4239-a713-34815f405a4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/AggregatorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/StockFileApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/fileprocessors/StockFileData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/fileprocessors/StockFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ1_Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ2_StartingThreads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ3_RenamingtheThreadNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ4_RunnableInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ5_AnnoymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M1_1_StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M1_2_StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M2_PatternMatchingUsingBuild_In_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M3_StringOperationTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M4_ToStringMethodMEANS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M5_StringSplittingFrom_CSV_comma_sepeated_Values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M6_StringisImmutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ15_Generics/asd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/Counter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/Helloo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/Hi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/Hii.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M1_MultiThreading_JavaTheory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M2_Multithreading_ThreadClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M3_ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M4_MT_RunnableInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M5_MT_LamdaExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M6_MT_Join_OR_isAlive_method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M7_MT_ThreadPriority.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M8_MT_SynchronizedKeyword$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M8_MT_SynchronizedKeyword$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/M8_MT_SynchronizedKeyword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/MJ01_IntroductiontoMultiThreading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ19_MultiThreading/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M1_AbractDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M1_AbractDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M3_AbstractEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M3_AbstractEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M7_AnonymousDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M7_AnonymousDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M7_AnonymousDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M7_AnonymousDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/Pen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/Pen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/Pencil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/Pencil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/Writter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/Writter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ19_MultiThreading/M1_MultiThreading_JavaTheory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ17_Concurrency_MultiThreading_1/M1_MultiThreading_JavaTheory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ19_MultiThreading/M2_Multithreading_ThreadClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ17_Concurrency_MultiThreading_1/M2_Multithreading_ThreadClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ19_MultiThreading/M3_ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ17_Concurrency_MultiThreading_1/M3_ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ19_MultiThreading/M4_MT_RunnableInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ17_Concurrency_MultiThreading_1/M4_MT_RunnableInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ19_MultiThreading/M5_MT_LamdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ17_Concurrency_MultiThreading_1/M5_MT_LamdaExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ19_MultiThreading/M6_MT_Join_OR_isAlive_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ17_Concurrency_MultiThreading_1/M6_MT_Join_OR_isAlive_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ19_MultiThreading/M7_MT_ThreadPriority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ17_Concurrency_MultiThreading_1/M7_MT_ThreadPriority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ19_MultiThreading/M8_MT_SynchronizedKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ17_Concurrency_MultiThreading_1/M8_MT_SynchronizedKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ19_MultiThreading/MJ01_IntroductiontoMultiThreading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ17_Concurrency_MultiThreading_1/MJ01_IntroductiontoMultiThreading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M1_AbractDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M1_AbractDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M3_AbstractEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M3_AbstractEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M5_InterfaceEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M5_InterfaceEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M7_AnonymousDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M7_AnonymousDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/META-INF/Master practicle java Dev.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/META-INF/Master practicle java Dev.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ5_AbstractClass/M1/abc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ20_LamdaExpression/M2_Java8_StreamAPIDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ20_LamdaExpression/M2_Java8_StreamAPIDemo.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,19 +22,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ5_AnnoymousClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,141 +32,29 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>1.7</find>
-      <find>parseInt</find>
-      <find>interface Serializable</find>
-      <find>nextInt</find>
-      <find>run()</find>
-    </findStrings>
-    <dirStrings>
-      <dir>C:\Users\STYL3\IdeaProjects\Master practicle java Dev</dir>
-      <dir>C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src\MJ7_Car_DealerShip</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java" />
-        <option value="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M2_Convert_HashSet_INTO_List.java" />
-        <option value="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M3_SortingwithUserDefinedTypes/Employee.java" />
-        <option value="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson2/Application.java" />
-        <option value="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M3_SortingwithUserDefinedTypes/Application.java" />
-        <option value="$PROJECT_DIR$/src/MJ13_HashMaps_LinkedHashMap_TreeMap/M1_App.java" />
-        <option value="$PROJECT_DIR$/src/MJ13_HashMaps_LinkedHashMap_TreeMap/M1_HashMap.java" />
-        <option value="$PROJECT_DIR$/src/MJ13_HashMaps_LinkedHashMap_TreeMap/M1_HashMap_AND_LinkedHashMap.java" />
-        <option value="$PROJECT_DIR$/src/MJ13_HashMaps_LinkedHashMap_TreeMap/M2_TreeMap.java" />
-        <option value="$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M2_AppModifiedReducedCode.java" />
-        <option value="$PROJECT_DIR$/src/MJ14_PRACTICAL_PROJECT_StockMarketData/client/Application.java" />
-        <option value="$PROJECT_DIR$/src/MJ14_PRACTICAL_PROJECT_StockMarketData/fileprocessors/StockFileReader.java" />
-        <option value="$PROJECT_DIR$/src/MJ14_PRACTICAL_PROJECT_StockMarketData/fileprocessors/StockFileData.java" />
-        <option value="$PROJECT_DIR$/src/MJ14_PRACTICAL_PROJECT_StockMarketData/client/StockFileApplication.java" />
-        <option value="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/M1_HashSet.java" />
-        <option value="$PROJECT_DIR$/src/MJ15_Generics/asd.java" />
-        <option value="$PROJECT_DIR$/src/MJ15_Generics/client/Employee.java" />
-        <option value="$PROJECT_DIR$/src/MJ15_Generics/client/Accountant.java" />
-        <option value="$PROJECT_DIR$/src/MJ15_Generics/client/Application.java" />
-        <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M1_AbractDemo.java" />
-        <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M4_InterfaceDemo.java" />
-        <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M3_AbstractEx.java" />
-        <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M2_WhyAbstractClass.java" />
-        <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M5_InterfaceEx.java" />
-        <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M6_MoreOnInterface.java" />
-        <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M7_AnonymousDemo.java" />
-        <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.java" />
-        <option value="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M10_DefaultMethod_in_Interface.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor/aggregators/Aggregator.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor/client/Application.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor/client/StockFileApplication.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor/fileprocessors/StockFileData.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor/fileprocessors/StockFileReader.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor/aggregators/AggregatorProcessor.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/Aggregator.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/MaxAggregator.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/MeanAggregator.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/MinAggregator.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/fileprocessors/StockFileData.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/fileprocessors/StockFileReader.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/AggregatorProcessor.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/AggregatorApp.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/StockFileApplication.java" />
-        <option value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/Application.java" />
-        <option value="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ1_Thread.java" />
-        <option value="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ2_Thread.java" />
-        <option value="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ2_StartingThreads_AND_RunnableInterface.java" />
-        <option value="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ3_RenamingtheThreadNames.java" />
-        <option value="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ3_RenamingtheThreadNames_RunnableInterface.java" />
-        <option value="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ4_RunnableInterface.java" />
-        <option value="$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ5_AnnoymousClass.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
-  </component>
+  <component name="ProjectId" id="1UWlpyQ087LbdCFutMkmXecDs4j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MJ18_Concurrency_MultiThreading_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Master practicle java Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Master practicle java Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MJ18_Concurrency_MultiThreading_2" type="462c0819:PsiDirectoryNode" />
-              <item name="MJ4_RunnableInterface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="MJ8_FileProcessing_with_ExceptionHandlingANDKeyboardInput.M1" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src" />
+      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src\MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor" />
+      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src\MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor" />
@@ -238,31 +68,17 @@
       <recent name="MJ9_031_BufferedFileReader_with_TryCatchANDFinally" />
       <recent name="MJ2_MethodsandClasses" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src\MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor" />
-      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev" />
-      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="MJ8_FileProcessing_with_ExceptionHandlingANDKeyboardInput.M1" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.MJ5_AnnoymousClass">
-    <configuration name="AggregatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor.client.AggregatorApp" />
+  <component name="RunManager" selected="Application.M5_StringSplittingFrom_CSV_comma_sepeated_Values">
+    <configuration name="M1_2_StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M1_2_StringReverse" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor.client.*" />
+          <option name="PATTERN" value="MJ21_Common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MJ1_Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ18_Concurrency_MultiThreading_2.MJ1_Thread" />
+    <configuration name="M2_PatternMatchingUsingBuild_In_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M2_PatternMatchingUsingBuild_In_Methods" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ18_Concurrency_MultiThreading_2.MJ3_RenamingtheThreadNames" />
+          <option name="PATTERN" value="MJ21_Common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MJ2_StartingThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ18_Concurrency_MultiThreading_2.MJ2_StartingThreads" />
+    <configuration name="M3_StringOperationTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M3_StringOperationTasks" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ18_Concurrency_MultiThreading_2.MJ3_RenamingtheThreadNames" />
+          <option name="PATTERN" value="MJ21_Common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MJ4_RunnableInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ18_Concurrency_MultiThreading_2.MJ4_RunnableInterface" />
+    <configuration name="M4_ToStringMethodMEANS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M4_ToStringMethodMEANS" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ18_Concurrency_MultiThreading_2.*" />
+          <option name="PATTERN" value="MJ21_Common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MJ5_AnnoymousClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ18_Concurrency_MultiThreading_2.MJ5_AnnoymousClass" />
+    <configuration name="M5_StringSplittingFrom_CSV_comma_sepeated_Values" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M5_StringSplittingFrom_CSV_comma_sepeated_Values" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ18_Concurrency_MultiThreading_2.*" />
+          <option name="PATTERN" value="MJ21_Common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,21 +139,33 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AggregatorApp" />
-      <item itemvalue="Application.MJ1_Thread" />
-      <item itemvalue="Application.MJ2_StartingThreads_AND_RunnableInterface" />
-      <item itemvalue="Application.MJ4_RunnableInterface" />
-      <item itemvalue="Application.MJ5_AnnoymousClass" />
+      <item itemvalue="Application.M1_2_StringReverse" />
+      <item itemvalue="Application.M2_PatternMatchingUsingBuild_In_Methods" />
+      <item itemvalue="Application.M3_StringOperationTasks" />
+      <item itemvalue="Application.M4_ToStringMethodMEANS" />
+      <item itemvalue="Application.M5_StringSplittingFrom_CSV_comma_sepeated_Values" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MJ5_AnnoymousClass" />
-        <item itemvalue="Application.MJ4_RunnableInterface" />
-        <item itemvalue="Application.MJ2_StartingThreads_AND_RunnableInterface" />
-        <item itemvalue="Application.MJ1_Thread" />
-        <item itemvalue="Application.AggregatorApp" />
+        <item itemvalue="Application.M5_StringSplittingFrom_CSV_comma_sepeated_Values" />
+        <item itemvalue="Application.M4_ToStringMethodMEANS" />
+        <item itemvalue="Application.M3_StringOperationTasks" />
+        <item itemvalue="Application.M2_PatternMatchingUsingBuild_In_Methods" />
+        <item itemvalue="Application.M1_2_StringReverse" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -374,71 +202,76 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30635402" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31587562" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30441898" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Palette" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" side_tool="true" weight="0.32980332" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.27458397" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.071104385" />
-      <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30181542" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31587562" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30441898" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Maven" order="1" weight="0.32980332" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.0688351" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="7" side_tool="true" weight="0.32980332" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.27458397" />
-    </layout-to-restore>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating with Lamda Expression.." />
     <option name="LAST_COMMIT_MESSAGE" value="Updating with Lamda Expression.." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1579978179896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579978179896" />
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575480461253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1575480461253" />
+    <state width="444" height="466" key="DebuggerActiveHint" timestamp="1579634458435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="444" height="466" key="DebuggerActiveHint/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579634458435" />
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom" timestamp="1579980440172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579980440172" />
+    <state width="1323" height="169" key="GridCell.Tab.0.center" timestamp="1579980440172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
+    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579980440172" />
+    <state width="1323" height="169" key="GridCell.Tab.0.left" timestamp="1579980440156">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
+    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579980440156" />
+    <state width="1323" height="169" key="GridCell.Tab.0.right" timestamp="1579980440172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
+    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579980440172" />
+    <state width="1323" height="192" key="GridCell.Tab.1.bottom" timestamp="1579637823224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106825" />
+    <state width="1323" height="192" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579637823224" />
+    <state width="1323" height="192" key="GridCell.Tab.1.center" timestamp="1579637823224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106825" />
+    <state width="1323" height="192" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579637823224" />
+    <state width="1323" height="192" key="GridCell.Tab.1.left" timestamp="1579637823224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106825" />
+    <state width="1323" height="192" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579637823224" />
+    <state width="1323" height="192" key="GridCell.Tab.1.right" timestamp="1579637823224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106825" />
+    <state width="1323" height="192" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579637823224" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580034213999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1920" y="-312" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1575740677374" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580034213999" />
+    <state x="350" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579976372134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579976372134" />
+    <state x="-1447" y="-259" width="590" height="717" key="find.popup" timestamp="1579629868670">
+      <screen x="-1920" y="-312" width="1536" height="824" />
+    </state>
+    <state x="-1447" y="-259" width="590" height="717" key="find.popup/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579629868670" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -446,50 +279,47 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MJ3_Understandning_OOP_Objects/Earth.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MJ3_Understandning_OOP_Objects/M1_ClassAND_Objects.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MJ3_Understandning_OOP_Objects/M3_Constructor_thisKeyword.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M3_AbstractEx.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java</url>
           <line>47</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson2/Application.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/Application.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MJ20_LamdaExpression/LoopJson.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/MJ7_Car_DealerShip/Customer.java</url>
@@ -524,445 +354,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MJ14_PRACTICAL_PROJECT_StockMarketData/table.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ9_BufferedFileReader_with_TryCatchANDFinally/M2_AppModifiedReducedCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ13_HashMaps_LinkedHashMap_TreeMap/M1_HashMap_AND_LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ13_HashMaps_LinkedHashMap_TreeMap/M2_TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/M1_HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-          <folding>
-            <element signature="e#1463#1471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ15_Generics/client/asd.java" />
-    <entry file="file://$PROJECT_DIR$/src/MJ15_Generics/asd.java" />
-    <entry file="file://$PROJECT_DIR$/src/MJ15_Generics/client/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ15_Generics/client/HRManger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M3_AbstractEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M5_InterfaceEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M6_MoreOnInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M8_AnonymousClassWithInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M7_AnonymousDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="e#65#66#0" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="34" column="47" lean-forward="true" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M1_AbractDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M2_WhyAbstractClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M4_InterfaceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-415">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ2_SomePackage/Exampleclass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ2_SomePackage/M1_Package.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M10_DefaultMethod_in_Interface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M11_MulitpleInheritanceIssues_With_Interface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M12_StaticMethod_in_Interface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ15_Generics/client/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="20" />
-          <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ15_Generics/client/Accountant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ15_Generics/client/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1220">
-          <caret line="72" column="37" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ14_PRACTICAL_PROJECT_StockMarketData/client/StockFileApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="14" column="102" lean-forward="true" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ14_PRACTICAL_PROJECT_StockMarketData/client/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ14_PRACTICAL_PROJECT_StockMarketData/fileprocessors/StockFileData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ14_PRACTICAL_PROJECT_StockMarketData/fileprocessors/StockFileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#532#540#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/table.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="852" selection-start-line="852" selection-end-line="852" />
-          <folding>
-            <element signature="e#31041#31042#0" expanded="true" />
-            <element signature="e#31086#31087#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/MaxAggregator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/MeanAggregator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/MinAggregator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/fileprocessors/StockFileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#541#549#0" expanded="true" />
-            <element signature="e#988#996#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/fileprocessors/StockFileData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/StockFileApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-313">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/Aggregator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/aggregators/AggregatorProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/AggregatorApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ1_Basic_Java/M5_Working_with_Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" lean-forward="true" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ1_Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="105" selection-start-line="5" selection-start-column="105" selection-end-line="5" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
-          <folding>
-            <element signature="e#43646#43647#0" expanded="true" />
-            <element signature="e#43691#43692#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ2_StartingThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ3_RenamingtheThreadNames.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding>
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ4_RunnableInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MJ18_Concurrency_MultiThreading_2/MJ5_AnnoymousClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
