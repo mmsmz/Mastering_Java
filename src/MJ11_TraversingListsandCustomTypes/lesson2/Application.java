@@ -1,6 +1,7 @@
 package MJ11_TraversingListsandCustomTypes.lesson2;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Application {
@@ -20,25 +21,29 @@ public class Application {
 //            System.out.println(animals.get(i)); // now this will allows to traverse this entire list and print out the data.
 //        }
 //
-//        for (String value : animals ){
-//            System.out.println(value);
-//        }
+        for (String value : animals ){
+            System.out.println(value);
+        }
+
+
         //ArrayList<Vehicle> vehicles = new ArrayList<Vehicle>();
-        List<Vehicle> vehicles = new ArrayList<Vehicle>();
+         List<Vehicle> vehicles = new LinkedList<>(); // instead of LinkedList use list for reference
+
+        // the below is another way of initializing by creating the Vehicle Object
         Vehicle vehicle2 = new Vehicle("Toyata","Camery",1200,false);
 
-        vehicles.add(new Vehicle("Honda","Accord",12000,false));
-
+        vehicles.add(new Vehicle("Honda","Accord",12000,false)); // this is the zeroth index 0
         vehicles.add(vehicle2);
-
         vehicles.add(new Vehicle("Jeep","Wrangler",25000,true));
 
-        /*for (Vehicle car:vehicles) {
+        vehicles.remove(0);
+        for (Vehicle car:vehicles) {
             // System.out.println(car); // this prints an hashcode like this MJ11_TraversingListsandCustomTypes.lesson2.Vehicle@4554617c
-            System.out.println(car.getMake());
-            System.out.println(car.getModel());
-            System.out.println(car.getPrice());
-        }*/
+                                        // create a toString() method in the Vehicle class and then this will print in a readable way.
+           System.out.println(car.getMake()); // instead of getting all the values you can get individual values like this.
+           System.out.println(car.getModel());
+           System.out.println(car.getPrice());
+        }
 
 //        for (Vehicle car:vehicles) {
 //          System.out.println(car); // create a toString() method in the Vehicle class and then this will print in a readable way.

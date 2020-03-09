@@ -1,10 +1,10 @@
 package MJ11_TraversingListsandCustomTypes.lesson2;
 
 public class Vehicle {
-    String make;
-    String model;
-    int price;
-    boolean fourWDrive;
+    private String make;
+    private String model;
+    private int price;
+    private boolean fourWDrive;
 
     public Vehicle(String make, String model, int price, boolean fourWDrive) {
         this.make = make;

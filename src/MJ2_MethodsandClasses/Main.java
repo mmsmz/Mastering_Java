@@ -17,7 +17,7 @@ public class Main {
 
         // adding a value the return value
         int newval =  MyUtils.add10(90) + 100 -50;
-        System.out.println(newval); // output is 100
+        System.out.println(newval); // output is 150
 
 
        // String welcomeMsg =  myul1.printSomeJunkNew("Mohamed");
@@ -33,9 +33,9 @@ public class Main {
         MyUtils myVar; // i have declared the data
         myVar = new MyUtils(); // now i have assigned the data
 
-        myVar.resultNum(10); // this is return a value 
-
-
+        //myVar.resultNum(10); // this is return a value
+        int s = myVar.resultNum(10);
+        System.out.println(s); // output : 10
 
     }
 }

@@ -8,16 +8,26 @@ public class Application {
         emplist.add(new Employee("Ron",12000,"Brandix"));
         emplist.add(new Employee("Richard",120000,"HR"));
         emplist.add(new Employee("Sam",45000,"Marketing"));
-            // Two ways of initializing the value either above OR Below
+
+        // Two ways of initializing the value either above OR Below ---------------------------------------------------
         Employee employee = new Employee("John",65000,"IT");
         emplist.add(employee);
 
+        // ----------------------------------- ---- ---- -- -- -- -- -- ------ ----
         List<Employee>  sortingMyList = new ArrayList<Employee>(emplist);
         // Collections.sort(sortingMyList); error becuase its not applicable
-        Collections.sort(sortingMyList);
+        Collections.sort(sortingMyList);  // to make this sorting work Employee class must implement the Comparable<Employee>
         System.out.println(sortingMyList);
+//outputs: [Employee{name='Ron', salary=12000, department='Brandix'}, Employee{name='Sam', salary=45000, department='Marketing'}, Employee{name='John', salary=65000, department='IT'}, Employee{name='Richard', salary=120000, department='HR'}]
 
-        //sorting
-
+        // Sorting it with foreach
+        for (Employee emp : sortingMyList) {
+            System.out.println(emp);
+        }
+            // output :
+      /*Employee{name='Ron', salary=12000, department='Brandix'}
+        Employee{name='Sam', salary=45000, department='Marketing'}
+        Employee{name='John', salary=65000, department='IT'}
+        Employee{name='Richard', salary=120000, department='HR'}*/
     }
 }

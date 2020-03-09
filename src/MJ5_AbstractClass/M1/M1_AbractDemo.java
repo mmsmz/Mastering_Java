@@ -17,10 +17,9 @@ class Man extends Human{ // conrete class
 
 public class M1_AbractDemo {
     public static void main(String[] args) {
-
-        // Human obj = new Human(); now we cannot create an object
+        // Human obj = new Human();// now we cannot create an object because abstract cannot be instantiated
         Human obj = new Man();
-        // we can refere Human class and create a object for the Man
+        // we can refer Human class and create a object for the Man
 
     }
 }

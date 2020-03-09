@@ -7,7 +7,7 @@ public class M1_App {
 
         File file = new File("myfile.txt"); // instantiating file using File class
         BufferedReader bufferedReader = null;
-        FileReader fileReader = null;
+        FileReader fileReader = null; // instead of using scanner Class we can also use FileReader !!!
 
         try {
             fileReader = new FileReader(file); // instead od using Scanner class we can use FileReader
