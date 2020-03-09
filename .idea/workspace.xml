@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc9f35c8-daf3-4239-a713-34815f405a4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M2_2_PatternMatchingUsingBuild_In_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M7_1_StringBuffer_StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M7_2_StringConvertor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ21_Common/M2_PatternMatchingUsingBuild_In_Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ21_Common/M2_PatternMatchingUsingBuild_In_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ21_Common/M2_1_PatternMatchingUsingBuild_In_Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,35 +66,9 @@
       <recent name="MJ8_FileProcessing_with_ExceptionHandlingANDKeyboardInput.M1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.M5_StringSplittingFrom_CSV_comma_sepeated_Values">
-    <configuration name="M1_2_StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M1_2_StringReverse" />
-      <module name="Master practicle java Dev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MJ21_Common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M2_PatternMatchingUsingBuild_In_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M2_PatternMatchingUsingBuild_In_Methods" />
-      <module name="Master practicle java Dev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MJ21_Common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M3_StringOperationTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M3_StringOperationTasks" />
+  <component name="RunManager" selected="Application.M7_2_StringConvertor">
+    <configuration name="M2_2_PatternMatchingUsingBuild_In_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M2_2_PatternMatchingUsingBuild_In_Methods" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
@@ -127,20 +106,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="M7_1_StringBuffer_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M7_1_StringBuffer_StringBuilder" />
+      <module name="Master practicle java Dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MJ21_Common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M7_2_StringConvertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M7_2_StringConvertor" />
+      <module name="Master practicle java Dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MJ21_Common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.M1_2_StringReverse" />
-      <item itemvalue="Application.M2_PatternMatchingUsingBuild_In_Methods" />
-      <item itemvalue="Application.M3_StringOperationTasks" />
+      <item itemvalue="Application.M2_2_PatternMatchingUsingBuild_In_Methods" />
       <item itemvalue="Application.M4_ToStringMethodMEANS" />
       <item itemvalue="Application.M5_StringSplittingFrom_CSV_comma_sepeated_Values" />
+      <item itemvalue="Application.M7_1_StringBuffer_StringBuilder" />
+      <item itemvalue="Application.M7_2_StringConvertor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.M7_2_StringConvertor" />
+        <item itemvalue="Application.M7_1_StringBuffer_StringBuilder" />
+        <item itemvalue="Application.M2_2_PatternMatchingUsingBuild_In_Methods" />
         <item itemvalue="Application.M5_StringSplittingFrom_CSV_comma_sepeated_Values" />
         <item itemvalue="Application.M4_ToStringMethodMEANS" />
-        <item itemvalue="Application.M3_StringOperationTasks" />
-        <item itemvalue="Application.M2_PatternMatchingUsingBuild_In_Methods" />
-        <item itemvalue="Application.M1_2_StringReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -220,26 +225,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="444" height="466" key="DebuggerActiveHint/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579634458435" />
-    <state width="1323" height="169" key="GridCell.Tab.0.bottom" timestamp="1579980440172">
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom" timestamp="1580041476911">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
-    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579980440172" />
-    <state width="1323" height="169" key="GridCell.Tab.0.center" timestamp="1579980440172">
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580041476911" />
+    <state width="1323" height="169" key="GridCell.Tab.0.center" timestamp="1580041476911">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
-    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579980440172" />
-    <state width="1323" height="169" key="GridCell.Tab.0.left" timestamp="1579980440156">
+    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580041476911" />
+    <state width="1323" height="169" key="GridCell.Tab.0.left" timestamp="1580041476911">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
-    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579980440156" />
-    <state width="1323" height="169" key="GridCell.Tab.0.right" timestamp="1579980440172">
+    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580041476911" />
+    <state width="1323" height="169" key="GridCell.Tab.0.right" timestamp="1580041476911">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
-    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579980440172" />
+    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580041476911" />
     <state width="1323" height="192" key="GridCell.Tab.1.bottom" timestamp="1579637823224">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -264,11 +269,12 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580035011680" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1580034213999">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581004425848">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1920" y="-312" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1575740677374" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580034213999" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581004425848" />
     <state x="350" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579976372134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -277,6 +283,10 @@
       <screen x="-1920" y="-312" width="1536" height="824" />
     </state>
     <state x="-1447" y="-259" width="590" height="717" key="find.popup/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579629868670" />
+    <state x="65" y="0" key="new project wizard" timestamp="1581012381357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1581012381357" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

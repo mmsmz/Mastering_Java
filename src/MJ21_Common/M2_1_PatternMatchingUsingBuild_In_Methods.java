@@ -1,6 +1,6 @@
 package MJ21_Common;
 
-public class M2_PatternMatchingUsingBuild_In_Methods {
+public class M2_1_PatternMatchingUsingBuild_In_Methods {
     public static void main(String[] args) {
 
         String text = "arafathanver";
