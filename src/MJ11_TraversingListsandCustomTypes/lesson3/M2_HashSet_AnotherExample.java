@@ -34,7 +34,7 @@ public class M2_HashSet_AnotherExample {
 
         // here is being proved that the hashcode values for animal1 and animal4 is different
         System.out.println(animal1.hashCode()); // 1163157884
-         System.out.println(animal4.hashCode()); // 1735600054
+        System.out.println(animal4.hashCode()); // 1735600054
         // until we implement the hashcode in the Animals class.
 
         // note after create a method equals and hashcode method in the Animals this program will not duplicate "Dog",12 again

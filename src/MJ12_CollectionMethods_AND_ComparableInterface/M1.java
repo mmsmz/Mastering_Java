@@ -11,5 +11,9 @@ public class M1 {
         values.add(5);
         values.add(6);
 
+        for (Object valu : values) {
+            System.out.println(valu);
+        }
+
     }
 }

@@ -32,7 +32,7 @@ public class M9_FunctionalInterhface_OR_LamdaExpression {
 //                    obj.show();
 
                 // since we are going to use lamda expression we can reduce many lines of code from above
-                M1 obj = ()-> System.out.println("I am the best");
+                M1 obj = () -> System.out.println("I am the best");
                         // *** this only work with functional interface and this works only in Java 8
                 obj.showing();
     }

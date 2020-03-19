@@ -4,15 +4,15 @@ import java.util.*;
 
 public class M2_Convert_HashSet_INTO_List {
     public static void main(String[] args) {
-        HashSet<Integer> myHashSet = new HashSet<Integer>();
+        HashSet<Integer> myHashSet = new HashSet<>();
         myHashSet.add(12);
         myHashSet.add(43);
         myHashSet.add(15);
         myHashSet.add(67);
         myHashSet.add(43);
 
-        // List<Integer> li = new ArrayList<Integer>(myHashSet);
-        //**** now if i want to sort the myHashSet
+       // List<Integer> li = new ArrayList<Integer>(myHashSet);
+       //**** now if i want to sort the myHashSet
 
         // Collections.sort(myHashSet); we cant sort this using HashSet, because Collections" "sort" except only "List"
         // therefor convert HashSet to List
