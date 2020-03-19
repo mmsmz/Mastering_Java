@@ -40,5 +40,19 @@ public class M1_WrapperDemo {
 
         int n = Integer.parseInt(str); // using parseInt which is a static method so we can access direct inorder to convert
 
+        /*Note :: The difference between wrapper class and primitive type in Java
+                The wrapper class is used to convert a primitive type to an object and object back to a primitive type while a primitive type
+        is a predefined data type provided by the Java programming language.
+                Example : ->*/
+        // * wrapper class is used to convert a primitive type to an object
+        Integer intobj = new Integer(10);
+        int ins = intobj.intValue();
+        System.out.println(ins);
+
+        //object back to a primitive type
+        int num1 = 25;
+        Integer inobj = Integer.valueOf(num1);
+        System.out.println(inobj);
+
     }
 }

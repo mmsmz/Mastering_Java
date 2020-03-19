@@ -2,7 +2,7 @@ package MJ4_ClassInheritance;
 
 class A{
     int i;
-        public A(){
+    public A(){
             System.out.println("In A");
         }
     public A(int i){
@@ -40,7 +40,6 @@ public class M4_SuperMethod {
 
         // but what if you want to call the parameterized one in the class A
         // **  then use super keyword
-
 
     }
 }

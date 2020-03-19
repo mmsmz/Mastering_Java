@@ -27,13 +27,13 @@ public class M1_MergeTwoArrayList_Together {
        // list1.addAll(newlist1);  // output: [12, 43, 15, 67, 43, 10, 67, 19]
        // list1.removeAll(newlist1);  // output: [12, 43, 15, 43]
 
-      /*1*/ list1.clear(); // output: [] // clears all the values
+      /*1*/ //list1.clear(); // output: [] // clears all the values
 
-      /*2*/ System.out.println(list1);// outputs values in the array slots :  [12, 43, 15, 67, 43]
+      /*2*/ //System.out.println(list1);// outputs values in the array slots :  [12, 43, 15, 67, 43]
 
         //boolean hasValue = list1.contains(67); // output: true
         // boolean hasValue = list1.isEmpty(); // output: false // if the entire array is empty
-        //boolean hasValue = list1.retainAll(newlist1); // show the value that are deleted  // output is true
+        boolean hasValue = list1.retainAll(newlist1); // show the value that are deleted  // output is true
 
         // if the /*1*/ and /*2*/ is commented
         list1.retainAll(newlist1); // output: [67] eliminated all and shows only the duplicated value

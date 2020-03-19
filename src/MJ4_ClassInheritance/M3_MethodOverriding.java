@@ -9,7 +9,7 @@ class AAA{
 class BBB extends AAA{
     @Override // child class method overrides the parent class method... example the show()
     public void show() {
-        //super.show(); this will call the super class method as well
+     //   super.show(); // if we apply this method this will call the super class method as well
         System.out.println("In BBB");
     }
 }

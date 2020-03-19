@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc9f35c8-daf3-4239-a713-34815f405a4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M2_2_PatternMatchingUsingBuild_In_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M7_1_StringBuffer_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MJ21_Common/M7_2_StringConvertor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/MJ21_Common/M2_PatternMatchingUsingBuild_In_Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ21_Common/M2_PatternMatchingUsingBuild_In_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ21_Common/M2_1_PatternMatchingUsingBuild_In_Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/META-INF/Master practicle java Dev.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson2/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson2/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/M2_HashSet_AnotherExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/M2_HashSet_AnotherExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M2_Convert_HashSet_INTO_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M2_Convert_HashSet_INTO_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ4_ClassInheritance/M3_MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ4_ClassInheritance/M3_MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ4_ClassInheritance/M4_SuperMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ4_ClassInheritance/M4_SuperMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M1_AbractDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M1_AbractDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -45,10 +53,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src" />
-      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src\MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor" />
-      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="MJ8_FileProcessing_with_ExceptionHandlingANDKeyboardInput.M1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src\MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor" />
@@ -62,17 +68,19 @@
       <recent name="MJ9_031_BufferedFileReader_with_TryCatchANDFinally" />
       <recent name="MJ2_MethodsandClasses" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="MJ8_FileProcessing_with_ExceptionHandlingANDKeyboardInput.M1" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src" />
+      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev\src\MJ16_PRACTICAL_PROJECT_ Data_Analytics_Processor" />
+      <recent name="C:\Users\STYL3\IdeaProjects\Master practicle java Dev" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.M7_2_StringConvertor">
-    <configuration name="M2_2_PatternMatchingUsingBuild_In_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M2_2_PatternMatchingUsingBuild_In_Methods" />
+  <component name="RunManager" selected="Application.M3_AbstractEx">
+    <configuration name="M2_WhyAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ5_AbstractClass.M1.M2_WhyAbstractClass" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ21_Common.*" />
+          <option name="PATTERN" value="MJ5_AbstractClass.M1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M4_ToStringMethodMEANS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M4_ToStringMethodMEANS" />
+    <configuration name="M3_AbstractEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ5_AbstractClass.M1.M3_AbstractEx" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ21_Common.*" />
+          <option name="PATTERN" value="MJ5_AbstractClass.M1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M5_StringSplittingFrom_CSV_comma_sepeated_Values" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M5_StringSplittingFrom_CSV_comma_sepeated_Values" />
+    <configuration name="M3_MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ4_ClassInheritance.M3_MethodOverriding" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ21_Common.*" />
+          <option name="PATTERN" value="MJ4_ClassInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M7_1_StringBuffer_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M7_1_StringBuffer_StringBuilder" />
+    <configuration name="M4_SuperMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ4_ClassInheritance.M4_SuperMethod" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ21_Common.*" />
+          <option name="PATTERN" value="MJ4_ClassInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M7_2_StringConvertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MJ21_Common.M7_2_StringConvertor" />
+    <configuration name="M5_DynamicMethodDispatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MJ4_ClassInheritance.M5_DynamicMethodDispatch" />
       <module name="Master practicle java Dev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MJ21_Common.*" />
+          <option name="PATTERN" value="MJ4_ClassInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.M2_2_PatternMatchingUsingBuild_In_Methods" />
-      <item itemvalue="Application.M4_ToStringMethodMEANS" />
-      <item itemvalue="Application.M5_StringSplittingFrom_CSV_comma_sepeated_Values" />
-      <item itemvalue="Application.M7_1_StringBuffer_StringBuilder" />
-      <item itemvalue="Application.M7_2_StringConvertor" />
+      <item itemvalue="Application.M3_MethodOverriding" />
+      <item itemvalue="Application.M4_SuperMethod" />
+      <item itemvalue="Application.M5_DynamicMethodDispatch" />
+      <item itemvalue="Application.M2_WhyAbstractClass" />
+      <item itemvalue="Application.M3_AbstractEx" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.M7_2_StringConvertor" />
-        <item itemvalue="Application.M7_1_StringBuffer_StringBuilder" />
-        <item itemvalue="Application.M2_2_PatternMatchingUsingBuild_In_Methods" />
-        <item itemvalue="Application.M5_StringSplittingFrom_CSV_comma_sepeated_Values" />
-        <item itemvalue="Application.M4_ToStringMethodMEANS" />
+        <item itemvalue="Application.M3_AbstractEx" />
+        <item itemvalue="Application.M2_WhyAbstractClass" />
+        <item itemvalue="Application.M5_DynamicMethodDispatch" />
+        <item itemvalue="Application.M4_SuperMethod" />
+        <item itemvalue="Application.M3_MethodOverriding" />
       </list>
     </recent_temporary>
   </component>
@@ -213,10 +221,6 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579978179896" />
-    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575480461253">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1575480461253" />
     <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1580034320426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -225,64 +229,64 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="444" height="466" key="DebuggerActiveHint/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579634458435" />
-    <state width="1323" height="169" key="GridCell.Tab.0.bottom" timestamp="1580041476911">
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom" timestamp="1584638675755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
-    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580041476911" />
-    <state width="1323" height="169" key="GridCell.Tab.0.center" timestamp="1580041476911">
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1584638675755" />
+    <state width="1323" height="169" key="GridCell.Tab.0.center" timestamp="1584638675755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
-    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580041476911" />
-    <state width="1323" height="169" key="GridCell.Tab.0.left" timestamp="1580041476911">
+    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1584638675755" />
+    <state width="1323" height="169" key="GridCell.Tab.0.left" timestamp="1584638675755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
-    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580041476911" />
-    <state width="1323" height="169" key="GridCell.Tab.0.right" timestamp="1580041476911">
+    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1584638675755" />
+    <state width="1323" height="169" key="GridCell.Tab.0.right" timestamp="1584638675755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106129" />
-    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580041476911" />
-    <state width="1323" height="192" key="GridCell.Tab.1.bottom" timestamp="1579637823224">
+    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1584638675755" />
+    <state width="1323" height="192" key="GridCell.Tab.1.bottom" timestamp="1583772346752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106825" />
-    <state width="1323" height="192" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579637823224" />
-    <state width="1323" height="192" key="GridCell.Tab.1.center" timestamp="1579637823224">
+    <state width="1323" height="192" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1583772346752" />
+    <state width="1323" height="192" key="GridCell.Tab.1.center" timestamp="1583772346752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106825" />
-    <state width="1323" height="192" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579637823224" />
-    <state width="1323" height="192" key="GridCell.Tab.1.left" timestamp="1579637823224">
+    <state width="1323" height="192" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1583772346752" />
+    <state width="1323" height="192" key="GridCell.Tab.1.left" timestamp="1583772346752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106825" />
-    <state width="1323" height="192" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579637823224" />
-    <state width="1323" height="192" key="GridCell.Tab.1.right" timestamp="1579637823224">
+    <state width="1323" height="192" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1583772346752" />
+    <state width="1323" height="192" key="GridCell.Tab.1.right" timestamp="1583772346752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1493" height="192" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579631106825" />
-    <state width="1323" height="192" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579637823224" />
+    <state width="1323" height="192" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1583772346752" />
     <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1580035011680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580035011680" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581004425848">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1583952864868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-1920" y="-312" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1575740677374" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1580034213999" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581004425848" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583952864868" />
     <state x="350" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579976372134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1579976372134" />
-    <state x="-1447" y="-259" width="590" height="717" key="find.popup" timestamp="1579629868670">
-      <screen x="-1920" y="-312" width="1536" height="824" />
+    <state x="421" y="47" width="603" height="634" key="find.popup" timestamp="1584633561104">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1447" y="-259" width="590" height="717" key="find.popup/0.0.1366.728/-1920.-312.1536.824@-1920.-312.1536.824" timestamp="1579629868670" />
+    <state x="421" y="47" width="603" height="634" key="find.popup/0.0.1366.728/-1920.-312.1536.824@0.0.1366.728" timestamp="1584633561104" />
     <state x="65" y="0" key="new project wizard" timestamp="1581012381357">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -315,16 +319,6 @@
           <url>file://$PROJECT_DIR$/src/MJ10_CollectionFramework/M2_Appliction.java</url>
           <line>47</line>
           <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson2/Application.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MJ16_PRACTICAL_PROJECT_Data_Analytics_Processor/client/Application.java</url>
