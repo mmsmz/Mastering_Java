@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fc9f35c8-daf3-4239-a713-34815f405a4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Master practicle java Dev/META-INF/Master practicle java Dev.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ10_CollectionFramework/M1_WrapperDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson2/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson2/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/M2_HashSet_AnotherExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ11_TraversingListsandCustomTypes/lesson3/M2_HashSet_AnotherExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M1_MergeTwoArrayList_Together.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M2_Convert_HashSet_INTO_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ12_CollectionMethods_AND_ComparableInterface/M2_Convert_HashSet_INTO_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ4_ClassInheritance/M3_MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ4_ClassInheritance/M3_MethodOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ4_ClassInheritance/M4_SuperMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ4_ClassInheritance/M4_SuperMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M1_AbractDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M1_AbractDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MJ5_AbstractClass/M1/M9_FunctionalInterhface_OR_LamdaExpression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,11 +129,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.M2_WhyAbstractClass" />
+      <item itemvalue="Application.M3_AbstractEx" />
       <item itemvalue="Application.M3_MethodOverriding" />
       <item itemvalue="Application.M4_SuperMethod" />
       <item itemvalue="Application.M5_DynamicMethodDispatch" />
-      <item itemvalue="Application.M2_WhyAbstractClass" />
-      <item itemvalue="Application.M3_AbstractEx" />
     </list>
     <recent_temporary>
       <list>
